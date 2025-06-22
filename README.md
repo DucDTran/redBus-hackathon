@@ -1,6 +1,6 @@
 # **RedBus Demand Forecasting Hackathon**
 
-Link to the hackathon: https://www.analyticsvidhya.com/datahack/contest/redbus-data-decode-hackathon-2025
+Link to the hackathon: https://www.analyticsvidhya.com/datahack/contest/redbus-data-decode-hackathon-2025  
 This repository contains the solution for the RedBus Data Decode Hackathon, that achieves a final place of #58 (sorry I need to improve more). The goal of this competition is to predict the demand for bus journeys (total seats booked) at a route level, 15 days prior to the date of departure.
 
 ## **Table of Contents**
